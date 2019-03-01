@@ -3,7 +3,7 @@
 Introduzione
 ------------
 
-Il Minority Game è un gioco proposto da Yi-Cheng Zhang e Damien Challet, ispirato dall' "El Farol Bar problem". Il cavillo nasce dal fatto che la capienza del bar non prevede l'affluenza di tutte le persone che vogliono frequentarlo, lasciando di fatto il pubblico insoddisfatto sia in caso di sorvannumero, sia in caso di partecipazione esigua.
+Il Minority Game è un gioco proposto da Yi-Cheng Zhang e Damien Challet, ispirato dall' [El Farol Bar problem](https://en.wikipedia.org/wiki/El_Farol_Bar_problem). Il cavillo nasce dal fatto che la capienza del bar non prevede l'affluenza di tutte le persone che vogliono frequentarlo, lasciando di fatto il pubblico insoddisfatto sia in caso di sorvannumero, sia in caso di partecipazione esigua.
 
 L'obiettivo della simulazione proprosta sarà proprio quello di trovare il modo di rendere `N` agenti capaci di decidere se andare o meno al bar avendo a disposizione solo una memoria della partecipazione `A` di un certo numero `M` di giorni precedenti.
 
